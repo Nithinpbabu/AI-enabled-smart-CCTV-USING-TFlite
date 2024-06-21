@@ -4,7 +4,7 @@ This project integrates hardware components, machine learning, and communication
 Here are the key features:
 
 # Person Detection using ESP32 and TensorFlow Lite:
-An camera, connected to PC dectects the intruder 
+An camera, connected to PC dectects the intruder. 
 TensorFlow Lite (TFLite) runs a neural network model to detect people in these images.
 When a person is detected, the system triggers an action.
 
