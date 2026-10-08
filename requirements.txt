@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+paho-mqtt
+opencv-python
+ultralytics
+flask
+asyncio
+python-telegram-bot
+python-dotenv

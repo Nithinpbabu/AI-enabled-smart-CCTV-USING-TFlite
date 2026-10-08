@@ -1,0 +1,37 @@
+# Environment variables — NEVER commit this
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled TFLite model (large binary, host separately or via Git LFS)
+# best_float32.tflite
+
+# ngrok binary (download separately)
+ngrok.exe
+ngrok
